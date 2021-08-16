@@ -28,7 +28,7 @@ class Laravel2Command(sublime_plugin.TextCommand):
 			txt="Modules\\"+files[6]+"\\http\\ controller.php";
 			pass
 		if key=='j': 
-			txt="Modules\\"+files[6]+"\\http\\ controller.php";
+			txt="public\\js\\modules\\"+files[6]+"\\ .js";
 			pass
 
 
