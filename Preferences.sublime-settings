@@ -1,0 +1,13 @@
+{
+	"animation_enabled": false,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"preview_on_click": false,
+	"show_navigation_bar": false,
+	"tab_size": 3,
+	"tree_animation_enabled": false
+}

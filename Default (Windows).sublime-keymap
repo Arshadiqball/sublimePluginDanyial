@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+d", "ctrl+c"], "command": "laravel2" , "args": {"key": "c"} } ,	
+	{ "keys": ["ctrl+d", "ctrl+m"], "command": "laravel2" , "args": {"key": "m"} } ,	
+	{ "keys": ["ctrl+d", "ctrl+w"], "command": "laravel2" , "args": {"key": "w"} } ,	
+	{ "keys": ["ctrl+d", "ctrl+v"], "command": "laravel2" , "args": {"key": "v"} } ,	
+	{ "keys": ["ctrl+d", "ctrl+j"], "command": "laravel2" , "args": {"key": "j"} } ,	
+ ] 
